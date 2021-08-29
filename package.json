@@ -1,0 +1,15 @@
+{
+  "name": "jsassessment",
+  "version": "1.0.0",
+  "description": "This is the JS assessment",
+  "main": "index.js",
+  "scripts": {
+    "startgame": "node game.js"
+  },
+  "author": "Eranga Fernando",
+  "license": "ISC",
+  "dependencies": {
+    "clear-screen": "^1.0.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
